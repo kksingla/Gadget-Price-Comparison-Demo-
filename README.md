@@ -1,3 +1,3 @@
-# Smartprix
+# Online Gadget Price Comparision App Demo
 
-Develop an Android application for Smartprix
+It is a great tool for online price comparison.
